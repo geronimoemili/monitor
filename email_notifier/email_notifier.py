@@ -37,7 +37,7 @@ class EmailNotifier:
             'smtp_port': 587,
             'smtp_username': '',
             'smtp_password': '',
-            'sender_email': 'noreply@example.com',
+            'sender_email': 'geronimo.emili@gmail.com',
             'recipients_file': 'email_recipients.txt',
             'use_tls': True,
             'email_subject_prefix': '[EU Parliament Fintech Monitor] ',

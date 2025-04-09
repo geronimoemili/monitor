@@ -1,4 +1,5 @@
 fintech
+Techfin
 blockchain
 cryptocurrency
 bitcoin
@@ -8,17 +9,18 @@ regtech
 insurtech
 payment gateway
 digital wallet
-crowdfunding
-smart contract
 tokenization
 decentralized finance
 API banking
 mobile banking
-digital transformation
+Smart banking
 financial inclusion
 cybersecurity
-data privacy
-GDPR
 PSD2
+PSD3
 MiFID
 financial education
+ePayment
+Digital payment
+War on cash
+Baas
