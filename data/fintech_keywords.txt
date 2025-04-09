@@ -1,26 +1,5 @@
 fintech
-Techfin
 blockchain
 cryptocurrency
 bitcoin
-digital currency
-open banking
-regtech
-insurtech
-payment gateway
-digital wallet
-tokenization
-decentralized finance
-API banking
-mobile banking
-Smart banking
-financial inclusion
-cybersecurity
-PSD2
-PSD3
-MiFID
-financial education
-ePayment
-Digital payment
-War on cash
-Baas
+ethereum
