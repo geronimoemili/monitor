@@ -37,6 +37,7 @@ PyYAML==6.0.2
 regex==2024.11.6
 requests==2.26.0
 requests-file==2.1.0
+schedule==1.2.2
 sgmllib3k==1.0.0
 six==1.17.0
 soupsieve==2.6
